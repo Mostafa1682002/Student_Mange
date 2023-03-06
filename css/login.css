@@ -1,0 +1,27 @@
+section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  max-width: 600px;
+  margin: auto;
+}
+.imge-stu {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+tbody tr td {
+  vertical-align: middle !important;
+}
+.skills {
+  margin: 0 !important;
+}
+.photo.wid {
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
